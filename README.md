@@ -1,7 +1,7 @@
 <code><img align = 'right' height="60" src="https://vit.ac.in/sites/all/themes/vittheme/images/vitlogo.png"></code>
 <h2> Hi there, I am Harish Kumar N !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin](https://img.shields.io/badge/-Harish-Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dibyendu-biswas-827155193/)](https://www.linkedin.com/in/harish-kumar-hk/)
+[![Linkedin](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dibyendu-biswas-827155193/)](https://www.linkedin.com/in/harish-kumar-hk/)
 [![Mail](https://img.shields.io/badge/-harishkumar.n2018@vitstudent.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:harishkumar.n2018@vitstudent.ac.in)
 
 <img align='right'  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -31,8 +31,8 @@
 
 ### 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham" alt="Dibyendu" />
+<img src="https://github-readme-stats.vercel.app/api?username=harish355&show_icons=true&theme=gotham"  alt="Harish" />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=harish355&show_icons=true&theme=gotham" alt="Harish" />
 
 <hr>
 
