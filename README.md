@@ -1,4 +1,4 @@
-<code><img align = 'right' height="60" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Vellore_Institute_of_Technology_seal_2017.svg"></code>
+<code><img align = 'right' height="50" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Vellore_Institute_of_Technology_seal_2017.svg"></code>
 <h2> Hi there, I am Harish Kumar N !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/harish-kumar-hk/)](https://www.linkedin.com/in/harish-kumar-hk/)
@@ -9,7 +9,7 @@
 <hr>
 
 ### About me 
-- Pursuing CSE at VIT Vellore with an interest in Software Development, Web development and Programming language design and try my hands regularly on competitive coding. 
+- Pursuing CSE at VIT Vellore with an interest in Software Development, Web development and try my hands regularly on competitive coding. 
 - Checkout My website [here](https://harishnk.com/)
 
 <hr>
