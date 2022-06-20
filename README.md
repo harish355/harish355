@@ -17,7 +17,7 @@
 ### Languages and Tools
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="40" src="https://i0.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/REST-API-icon.jpg"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png></code>
 <code><img height="40" src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="40" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png"></code>
